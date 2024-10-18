@@ -21,7 +21,7 @@ public class Animalitics {
         // Creating objects of the Animal class
         Animal cat = new Animal("Mingming", "Cat");
 
-        // Calling methods on the objects
+        // Calling method on the object
         cat.displayInfo();
     }
 }
