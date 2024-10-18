@@ -1,4 +1,4 @@
-class arithmetic {
+class Arithmetic_operator {
     public static void main(String[] args) {
         
         int a = 10;
