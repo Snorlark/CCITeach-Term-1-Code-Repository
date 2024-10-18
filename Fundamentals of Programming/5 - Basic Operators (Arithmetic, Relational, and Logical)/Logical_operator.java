@@ -1,4 +1,4 @@
-class logical {
+class Logical_operator {
     public static void main(String[] args) {
         
       int age = 25;
