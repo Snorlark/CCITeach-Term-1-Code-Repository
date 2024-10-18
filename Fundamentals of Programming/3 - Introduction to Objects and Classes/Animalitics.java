@@ -19,11 +19,9 @@ class Animal {
 public class Animalitics {
     public static void main(String[] args) {
         // Creating objects of the Animal class
-        Animal dog = new Animal("Buddy", "Dog");
-        Animal cat = new Animal("Whiskers", "Cat");
+        Animal cat = new Animal("Mingming", "Cat");
 
         // Calling methods on the objects
-        dog.displayInfo();
         cat.displayInfo();
     }
 }
